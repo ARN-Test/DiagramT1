@@ -24,4 +24,4 @@
       * in Class :
       
             * Best Approach for collaboraion diagram by collaboration diagram
-            * Control class generalization should be avoided [maybe also boundary class]
+            * Control class generalization should be avoided [maybe also boundary class and entity class :|]
